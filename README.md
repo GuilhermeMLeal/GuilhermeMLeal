@@ -1,3 +1,13 @@
+<style>
+ body{
+   display: flex;
+   flex-direction: column;
+   align-itens:center;
+   justify-content:center;
+  gap:20px;
+ }
+ </style>
+ <body>
  <h3>👋 Hello! Welcome to my Github profile.</h3>
 <h3> My name is Guilherme Martins and my nickname is "Martins"!</h3>
 
@@ -21,5 +31,5 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMLeal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  
+  </body>
 
