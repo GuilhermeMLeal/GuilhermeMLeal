@@ -1,16 +1,8 @@
-<style>
- body{
-   display: flex;
-   flex-direction: column;
-   align-itens:center;
-   justify-content:center;
-  gap:20px;
- }
- </style>
- <body>
- <h3>👋 Hello! Welcome to my Github profile.</h3>
-<h3> My name is Guilherme Martins and my nickname is "Martins"!</h3>
 
+ <body>
+ <h2>👋 Hello! Welcome to my Github profile.</h2>
+<h3> My name is Guilherme Martins and my nickname is "Martins"!</h3>
+<h3>I’m currently learning React and retaking studies with JavaScript</h3>
 <!--
 **GuilhermeMLeal/GuilhermeMLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
