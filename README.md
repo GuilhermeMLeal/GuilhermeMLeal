@@ -10,8 +10,11 @@
 
 
 
+<div>
+	<a href="www.linkedin.com/in/guilhermeml1fernandes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"  width="50px" height="50px" />/a>
+	<a href="https://www.instagram.com/guilherme.mleal/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/473/original/instagram-logo-instagram-icon-transparent-free-png.png"  width="50px" height="50px" />/a>
+</div>
 
-<a href="https://github.com/GuilhermeMLeal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" height="50px" /></a>
 </body>
 
 
