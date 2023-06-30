@@ -5,7 +5,7 @@
 	<div align="center">
 		<img src="https://i.chzbgr.com/full/9692994560/h5280E757"width="400px" height="400px">
 	</div>
-	<br><hr><hr>
+	<br>
 </header>
 <div align="center">
  <a href="https://github.com/GuilhermeMLeal">
