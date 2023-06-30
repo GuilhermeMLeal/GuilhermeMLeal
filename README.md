@@ -2,7 +2,9 @@
 <header>
 	<h1>Hello,Devs!!</h1> <br>
 	<h3>Eu sou Guilherme Martins, tenho 18 anos e estou cursando ADS(Análise e Desenvolvimento de Sistemas). Sou muito interessado na área de tecnologia e principalmente, aquele que gosta de uma boa série de comédia e Ficção Científica</h3>
-	<img src="https://i.chzbgr.com/full/9692994560/h5280E757">
+	<div align="center">
+		<img src="https://i.chzbgr.com/full/9692994560/h5280E757"width="300px" height="300px">
+	</div>
 </header>
 <div align="center">
  <a href="https://github.com/GuilhermeMLeal">
