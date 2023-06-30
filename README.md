@@ -7,9 +7,7 @@
 <h4 align="center"> 
 	Em formação de React e Python 🚀 
 </h4>
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+
 
 
 
