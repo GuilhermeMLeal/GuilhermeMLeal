@@ -15,6 +15,11 @@
 <h4 align="center"> 
 	Em formação de React e Python 🚀 <br>
 </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,react" />
+  </a>
+</p>
 
 
 
