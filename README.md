@@ -1,7 +1,7 @@
 <body>
 <header>
 	<h1 align="center">Hello,Devs!!</h1> <br>
-	<h3 align="justify">Eu sou Guilherme Martins, tenho 18 anos e estou cursando ADS(Análise e Desenvolvimento de Sistemas). Sou muito interessado na área de tecnologia e principalmente, aquele que gosta de uma boa série de comédia e Ficção Científica.</h3>
+	<h3 align="justify">Eu sou Guilherme Martins, tenho 19 anos e estou cursando ADS(Análise e Desenvolvimento de Sistemas). Sou muito interessado na área de tecnologia e hoje estou atuando em Django e Testes em Python.</h3>
 	<div align="center">
 		<img src="https://i.chzbgr.com/full/9692994560/h5280E757"width="400px" height="400px">
 	</div>
