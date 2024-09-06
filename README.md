@@ -1,4 +1,4 @@
-
+# Hi guys, I'm Guilherme Martins
 #  About Me:
 👩🏻‍💻 Full Stack Developer sharing about my own journey<br>👩🏻‍🎓 Studied ADS at the Senai, Brazil<br>💭 Currently learning about Software Development and best practices<br><br>
 
