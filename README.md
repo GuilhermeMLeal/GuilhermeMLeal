@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeMLeal&theme=catppuccin&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMLeal&theme=catppuccin_latte&hide_border=false" alt="GitHub Streak" height="150"/>
 </div>
 
 
